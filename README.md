@@ -17,7 +17,7 @@
 
 A estrutura do trabalho descrito acima pode ser representada pela Figura 1 abaixo:
 
-![Figura 1](../SistemasDistribuidos/img/Distributed%20Systems_Fundo_branco.png)
+![Distributed Systems drawio](https://user-images.githubusercontent.com/71051791/164568877-d2c729f0-fae6-4941-a80d-658a145d72e1.png)
 
 ## Solução 
 
