@@ -5,7 +5,7 @@
 * Geise Saunier
 * Iano Maciel
 * Rafael Guedes
-* Taynara Martins
+* Taynara Costa
 
 ## Especificação do trabalho
 
